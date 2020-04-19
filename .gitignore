@@ -1,4 +1,8 @@
+.vscode
 *.pyc
 *~
-__pycache__
-.vscode
+__pychache__
+env
+.env
+*.db
+node_modules/
